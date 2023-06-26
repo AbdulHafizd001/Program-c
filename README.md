@@ -1,43 +1,57 @@
-# COFFEE SHOP CASHIER PROGRAM
-this is a program where this program is run for cashiers in coffeeshops
-which have views such as: coffee menu, prices,sizes with different prices,
-and in the last view there are payment options such as cash or credit card.
+# COFEE SHOP ENJOY CASHIER PROGRAM
+this is the program in which this program is run for the cashier in the coffeeshop
+which has views such as: coffee menu, prices, sizes with different prices,
+and on the last screen there are payment options such as cash, credit and e-wallet
 
 
 # OUTPUT
     after running it will look like this:
-1.  first choose according to taste, choose a number from 1 – 4
+1.  In the first display, we are asked to select an available menu by typing one of the number 1-5 options
+
+    ![1](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/be737951-689a-45df-9fd8-59384bdd6da3)
+
+
+2.  This is how it looks if we select an option in the menu
    
-    ![1](https://github.com/AbdulHafizd001/Program-c/assets/137294390/38db2570-7f5f-4872-8021-2338c764929d)
+    ![2](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/8ca693b9-1af1-4c55-b3db-f301e4bedf83)
 
-2.  Then as an example here I enter the number 3, after entering the number, there will be further options such as:
+    then the next step we are asked to choose the size we want
 
-    ![2](https://github.com/AbdulHafizd001/Program-c/assets/137294390/ee9f4b0e-c55f-44de-a470-a2817c80a98f)
-
-3.  Then select the desired size, select the numbers 1 - 3:
+3.  then as an example here choose the number 3 which is extra large
    
-    ![3](https://github.com/AbdulHafizd001/Program-c/assets/137294390/f3aeda19-a223-4860-93b2-961ca0dc5ca3)
+    ![3](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/6328a867-ff9b-4f14-937e-e303ccbf4638)
+    
+    then after entering the size we want there will immediately be a display of the price of the one we choose ,
+    then we are asked to select the menu again or select finish by selecting number 6
 
-    For example, here I enter number 3, Large
+4.  for example here select the number 6 to finish, then there will be a price display immediately
+   
+    ![4](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/757eadb4-12ca-4431-8870-b8882b0f7200)
+    
+    then we are asked to choose what payment method we will use
 
-4.  Then enter the number of orders you want, for example here enter 4 orders:
+5.  For example, choose number 1, which is to pay in cash
 
-    ![4](https://github.com/AbdulHafizd001/Program-c/assets/137294390/6fb55b51-c54d-49a3-80b0-64795f13ad67)
+    ![5](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/0cf1471f-5cd1-46b2-9c6c-0fea8ce74947)
+    
+    then we are asked to enter the nominal amount of money we will pay,
+    after that there will be money back if we pay it with more money
+    
+6.  after paying and then receiving the excess money, the program will be completed automatically
 
-5.  after the total price appears, then select the payment method that will be used:
+    ![6](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/6f77cde0-50e0-4282-8a55-aea53947557b)
 
-    ![5](https://github.com/AbdulHafizd001/Program-c/assets/137294390/e05e1d6a-559b-4347-997e-d32ff5996fcb)
+7.  this is how it looks if we choose other payment methods such as credit cards and e-wallets
 
-    For example, here I enter number 1 because I will pay cash and pay Rp. 200000
+    ![kredit 2](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/e900fffc-413a-4a47-baa7-8fd0365c4982)
 
-6.  After the payment is made, it will look like this:
+    ![e wallet](https://github.com/AbdulHafizd001/TUGAS_BESAR_SDA/assets/137294390/1ec15973-a96c-4116-90cf-a58bac4f5053)
 
-    ![6](https://github.com/AbdulHafizd001/Program-c/assets/137294390/3226aae2-e6fd-4873-9f59-8b57f0203e9a)
 
-    If you see proof of purchase attached as shown in the picture, it means that the purchase you made was successful.
 
-    if there is money left, the cashier will give the money. THANK YOU
 
+
+   
 
 
 
